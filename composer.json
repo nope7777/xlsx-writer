@@ -5,6 +5,7 @@
         "PHP", "XLSX", "Excel"
     ],
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "nope7777",
